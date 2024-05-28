@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Lxca128/count.svg?"  />
-</div>
-
-###
-
 <h3 align="center">Programming languages I already know or am learning</h3>
 
 ###
