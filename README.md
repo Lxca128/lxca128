@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Lxca128/lxca128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate programmer from Germany, specializing in developing and hosting software solutions, including Minecraft servers and websites.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 **Programming Enthusiast**: Skilled in Java, PHP, Laravel, HTML, and JavaScript.
+- 🎮 **Gaming Developer**: Running a unique PvE Minecraft server with exciting features.
+- 🔍 **Detail-Oriented Researcher**: Always diving deep into technical topics to ensure accuracy and quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Java, PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel
+- **Tools & Platforms**: PHPStorm, IntelliJ, GitHub, ZAP-Hosting, Discord & more
+
+## 📈 Current Projects
+- 🏗️ Developing an innovative public Minecraft PvE server.
+
+## 📫 Let's Connect!
+- 🦋 [Bluesky](https://bsky.app/profile/lxca.de)
+
+## 🎯 Fun Facts
+- Protecting my Minecraft server's uniqueness by keeping its concepts a surprise!
+- 🍕 I absolutely love pizza!
