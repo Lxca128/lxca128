@@ -9,11 +9,12 @@ Welcome to my GitHub profile! I'm a passionate programmer from Germany, speciali
 
 ## 🛠️ Tech Stack
 - **Languages**: Java, PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel
+- **Frameworks**: Laravel, Filament
 - **Tools & Platforms**: PHPStorm, IntelliJ, GitHub, ZAP-Hosting, Discord & more
 
 ## 📈 Current Projects
-- 🏗️ Developing an innovative public Minecraft PvE server.
+- 🏗️ Developing a web app to centrally manage bugs, feedback, and ideas from the community.
+- 🏗️ Developing the Minecraft plugin "SlimeRanks," which allows the creation of custom ranks that are displayed in the tab, chat, and above the name.
 
 ## 📫 Let's Connect!
 - 🦋 [Bluesky](https://bsky.app/profile/lxca.de)
