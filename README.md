@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate programmer from Germany, speciali
 
 ## 🛠️ Tech Stack
 - **Languages**: Java, PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Filament
+- **Frameworks**: Laravel, Filament, Livewire
 - **Tools & Platforms**: PHPStorm, IntelliJ, GitHub, ZAP-Hosting, Discord & more
 
 ## 📈 Current Projects
