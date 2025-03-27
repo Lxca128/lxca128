@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate programmer from Germany, specializing in developing and hosting software solutions, including Minecraft servers and websites.
 
 ## 🚀 About Me
-- 💻 **Programming Enthusiast**: Skilled in Java, PHP, Laravel, HTML, and JavaScript.
-- 🎮 **Gaming Developer:** Loves working on Minecraft plugins and creating unique features for servers.
-- 🔍 **Detail-Oriented Researcher**: Always diving deep into technical topics to ensure accuracy and quality.
-- 🏆 **Staff Member at Cubolis:** Helping to build an exciting Minecraft minigame network.
+- 💻 **Programming Enthusiast**: I'm skilled in Java, PHP, Laravel, HTML, and JavaScript.
+- 🎮 **Gaming Developer**: I love working on Minecraft plugins and creating unique features for servers.
+- 🔍 **Detail-Oriented Researcher**: I always dive deep into technical topics to ensure accuracy and quality.
+- 🏆 **Staff Member at Cubolis**: I'm helping to build an exciting Minecraft minigame network.
 
 ## 🛠️ Tech Stack
 - **Languages**: Java, PHP, JavaScript, HTML, CSS
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate programmer from Germany, speciali
 - **Tools & Platforms**: PHPStorm, IntelliJ, GitHub, ZAP-Hosting, Discord & more
 
 ## 📈 Current Projects
-- 🏗️ Developing a web app to centrally manage bugs, feedback, and ideas from the community.
 - 🏗️ Developing the Minecraft plugin "SlimeRanks," which allows the creation of custom ranks that are displayed in the tab, chat, and above the name.
+- 🌍 Hosting and managing a Minecraft SMP.
 
 ## 📫 Let's Connect!
 - 🦋 [Bluesky](https://bsky.app/profile/lxca.de)
