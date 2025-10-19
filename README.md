@@ -1,24 +1,25 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate programmer from Germany, specializing in developing and hosting software solutions, including Minecraft servers and websites.
+Hey, I'm Luca - a passionate developer from Germany who loves building things that make gaming and development more fun and efficient.  
+Most of my work revolves around **Minecraft plugin development** and **web projects**, but I also enjoy diving into new technologies and experimenting with fresh ideas. 🚀
 
-## 🚀 About Me
-- 💻 **Programming Enthusiast**: I'm skilled in Java, PHP, Laravel, HTML, and JavaScript.
-- 🎮 **Gaming Developer**: I love working on Minecraft plugins and creating unique features for servers.
-- 🔍 **Detail-Oriented Researcher**: I always dive deep into technical topics to ensure accuracy and quality.
-- 🏆 **Staff Member at Cubolis**: I'm helping to build an exciting Minecraft minigame network.
+## 💡 What I Do
+- 🎮 I create **Minecraft plugins** that bring new gameplay features and ideas to life.  
+- 🌐 I work on **web projects** that blend functionality with simplicity.  
+- 🧠 I love exploring **new tools, frameworks, and tech trends** - always learning something new.  
+- 💭 I enjoy turning creative ideas into real, usable projects.
 
-## 🛠️ Tech Stack
-- **Languages**: Java, PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Filament, Livewire
-- **Tools & Platforms**: PHPStorm, IntelliJ, GitHub, ZAP-Hosting, Discord & more
+## 🧰 What You'll Find Here
+My repositories include a mix of:
+- 🧱 Custom **Minecraft projects and plugins**  
+- ⚙️ Useful **utilities and tools**  
+- 🌱 Experimental projects where I try out new tech  
 
-## 📈 Current Projects
-- 🏗️ Developing the Minecraft plugin "SlimeRanks," which allows the creation of custom ranks that are displayed in the tab, chat, and above the name.
-- 🌍 Hosting and managing a Minecraft SMP.
+If you’re into open-source experiments, creative coding, or just love Minecraft, there’s probably something here for you. 👀  
 
-## 📫 Let's Connect!
-- 🦋 [Bluesky](https://bsky.app/profile/lxca.de)
+## 🔗 Check Out My Work
+Take a look at my projects and see what I’m currently working on:  
+👉 [Projects](https://github.com/Lxca128?tab=repositories)
 
-## 🎯 Fun Fact
-- 🍕 I absolutely love pizza!
+## 🦋 Let's Connect
+- [Bluesky](https://bsky.app/profile/lxca.de)
