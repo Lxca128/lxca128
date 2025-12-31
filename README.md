@@ -1,25 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df954aba-a048-4c07-ab95-28a87623a46e" alt="Profile Banner" width="100%" />
+</p>
 
-Hey, I'm Luca - a passionate developer from Germany who loves building things that make gaming and development more fun and efficient.  
-Most of my work revolves around **Minecraft plugin development** and **web projects**, but I also enjoy diving into new technologies and experimenting with fresh ideas. 🚀
+<p align="center">
+  Luca&nbsp;&nbsp;•&nbsp;&nbsp;
+  19 y/o&nbsp;&nbsp;•&nbsp;&nbsp;
+  Full-time Developer&nbsp;&nbsp;•&nbsp;&nbsp;
+  Germany 🇩🇪
+</p>
 
-## 💡 What I Do
-- 🎮 I create **Minecraft plugins** that bring new gameplay features and ideas to life.  
-- 🌐 I work on **web projects** that blend functionality with simplicity.  
-- 🧠 I love exploring **new tools, frameworks, and tech trends** - always learning something new.  
-- 💭 I enjoy turning creative ideas into real, usable projects.
+<p align="center">
+  I mainly work with technologies around <b>Minecraft</b> and <b>web development</b>,<br>
+  but I also like to experiment with other areas like <b>app development</b> and side projects.
+</p>
 
-## 🧰 What You'll Find Here
-My repositories include a mix of:
-- 🧱 Custom **Minecraft projects and plugins**  
-- ⚙️ Useful **utilities and tools**  
-- 🌱 Experimental projects where I try out new tech  
+<br>
 
-If you’re into open-source experiments, creative coding, or just love Minecraft, there’s probably something here for you. 👀  
-
-## 🔗 Check Out My Work
-Take a look at my projects and see what I’m currently working on:  
-👉 [Projects](https://github.com/Lxca128?tab=repositories)
-
-## 🦋 Let's Connect
-- [Bluesky](https://bsky.app/profile/lxca.de)
+<p align="center">
+  <a href="https://discord.com/users/691960371430555698">
+    <img alt="Discord" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://modrinth.com/user/Lxca128">
+    <img alt="Modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/lxca.de">
+    <img alt="Website" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/website_vector.svg">
+  </a>
+</p>
