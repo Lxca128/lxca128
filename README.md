@@ -4,9 +4,14 @@
 
 <p align="center">
   Luca&nbsp;&nbsp;•&nbsp;&nbsp;
-  19 y/o&nbsp;&nbsp;•&nbsp;&nbsp;
-  Full-time Developer&nbsp;&nbsp;•&nbsp;&nbsp;
+  20 y/o&nbsp;&nbsp;•&nbsp;&nbsp;
+  Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;
   Germany 🇩🇪
+</p>
+
+<p align="center">
+  I'm a trained IT specialist for application development,
+  working across the full stack.
 </p>
 
 <p align="center">
@@ -14,30 +19,7 @@
   while also enjoying experimenting with other technologies and side projects.
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://discord.com/users/691960371430555698" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="Discord"
-      height="56"
-      style="display:block"
-      src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://modrinth.com/user/Lxca128" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="Modrinth"
-      height="56"
-      style="display:block"
-      src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/lxca.de" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="BlueSky"
-      height="56"
-      style="display:block"
-      src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/documentation/website_vector.svg">
-  </a>
+  Founder of <a href="https://todolytics.app">Todolytics</a>,<br>
+  a guided weekly review and productivity analytics tool for Todoist.
 </p>
